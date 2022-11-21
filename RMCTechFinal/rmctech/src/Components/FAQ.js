@@ -16,8 +16,8 @@ const FAQ = () => {
               question?
             </h6>
             <p>
-              <strong>
-                <u>Absolutely!</u>
+              <strong >
+                <u className="bold-word">Absolutely!</u>
               </strong>{" "}
               We work with top payment companies which guarantees your safety
               and security. All billing information is stored on our payment
@@ -31,9 +31,9 @@ const FAQ = () => {
               is longer then the previous one?
             </h6>
             <p>
-              <strong>
-                <u>Yes, it is possible!</u>
-              </strong>{" "}
+              <strong >
+                <u className="bold-word">Yes, it is possible!</u>
+              </strong >{" "}
               You can cancel your subscription anytime in your account. Once the
               subscription is cancelled, you will not be charged next month.
             </p>
@@ -65,8 +65,8 @@ const FAQ = () => {
               <i class="fas fa-home text-primary pe-2"></i> A simple question?
             </h6>
             <p>
-              <strong>
-                <u>Unfortunately no</u>.
+              <strong >
+                <u className="bold-word">Unfortunately no</u>.
               </strong>{" "}
               We do not issue full or partial refunds for any reason.
             </p>
