@@ -1,0 +1,27 @@
+.btn-primary{
+    background-color: crimson !important;
+    padding: 5px;
+    padding-left: 7px;
+    padding-right: 7px;
+    border-radius: 5px;
+    color: aliceblue;
+    border-color: white;
+
+}
+
+
+
+.navbar{
+    top: 0ch;
+
+}
+a,u {
+    text-decoration: none !important;
+    color: black !important;
+  }
+
+
+.logo{
+    height:40px;
+    width: 85px;
+}

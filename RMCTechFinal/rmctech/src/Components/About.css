@@ -1,0 +1,47 @@
+#about{
+    padding: 5px;
+    overflow: hidden;
+    margin-top: 50px;
+    margin-bottom: 100px;
+
+}
+.col-lg-6{
+    width: 50%;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: auto;
+    color: aliceblue;
+
+   
+}
+
+h2{
+    color: aliceblue !important;
+}
+
+p{
+    color: aliceblue
+
+}
+
+
+
+
+.btn-learn-more{
+    text-decoration: none;
+    background-color: crimson;
+    height: 100px !important;
+    width: 100px !important;
+    box-sizing: content-box;
+    border-radius: 2px;
+    color: aliceblue;
+    padding: 8px;
+
+
+}
+
+.btn-learn-more:hover{
+    padding: 12px;
+    border-radius: 4px;
+    transition: ease-in 300ms;
+}
