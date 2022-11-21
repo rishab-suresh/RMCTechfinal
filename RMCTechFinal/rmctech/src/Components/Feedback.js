@@ -15,7 +15,7 @@ export const Feedback = () => {
                 </div>
                 <div className="col-lg-7 ps-0 ps-lg-5 pe-lg-1 d-flex align-items-stretch aos-init aos-animate" >
                     <div className="content d-flex flex-column justify-content-center">
-                        <div className='card' id='feed-card' data-aos="fade-in" data-aos-delay="200">
+                        <div className='card' id='feed-card'>
                             <h3 data-aos="fade-right" id='title-feed'>Voluptatem dignissimos provident quasi</h3>
                             <p data-aos="fade-right"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit</p>
                             <div className="row">

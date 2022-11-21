@@ -3,19 +3,23 @@
     justify-content: center;
     align-items: center;
     padding: 5px;
+    height: 100%;
+    width: 100%;
+   margin-bottom: 20px;
     
-    
-    
+
        
 }
 
-
-.submission{
-    max-width: 400px;
-    margin: 2rem;
-   
-   
+#form-data{
+    margin: 0;
 }
+.submission{
+    height:550px;
+    width:300px;
+}
+
+
 
 label{
     display: flex ;
